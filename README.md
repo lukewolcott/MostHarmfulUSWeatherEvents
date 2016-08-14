@@ -6,3 +6,4 @@ We analyze 62 years of NOAA data on severe weather events to determine the most 
 
 - storms_in_US.Rmd: R Markdown file of the analysis, with code but no plots.
 - storms_in_US.html: html file of the analysis.  Doesn't automatically display right now because the file is too big, but will fix this somehow.
+- copy of zipped raw data file
