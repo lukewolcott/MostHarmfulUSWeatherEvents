@@ -6,6 +6,7 @@ This analysis was begun as part of a Johns Hopkins University Coursera course in
 
 #### Contents
 
+- storms_in_US.md: Markdown file of the analysis, including plots.
 - storms_in_US.Rmd: R Markdown file of the analysis, with code but no plots.
-- storms_in_US.html: html file of the analysis.  Doesn't automatically display right now because the file is too big, but will fix this somehow.
+- storms_in_US.html: html file of the analysis.  
 - repdata%2Fdata%2FStormData.csv.bz2: copy of zipped raw data file
